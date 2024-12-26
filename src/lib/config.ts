@@ -1,0 +1,2 @@
+export const RUNWAY_API_KEY = 'key_d85b8fae2c6b4342139c8a8a3e94ecbfa3fb8b90d36026ef015848e12d33168cd69bd28d2640d92111a4a7e92c6b56c3a1be9947dfd5505c8790d56e81920ff4'
+export const RUNWAY_API_URL = 'https://api.dev.runwayml.com' 
